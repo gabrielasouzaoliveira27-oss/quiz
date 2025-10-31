@@ -1,23 +1,23 @@
 body {
-    background-color: red;
+    background-color: rgb(229, 168, 168);
     text-align: center;
     margin-top: 40px;
   }
   
   img{width: 60%;}
   
-  h1{color: red;
+  h1{color: rgb(87, 71, 71);
   font-size: 50px;
   }
   
   p{font-size: 30px;
-  color: red;
+  color: rgb(46, 38, 38);
   }
   
   button{
     font-size: 30px;
     margin: 10px;
-    background-color: red;
+    background-color: rgb(114, 110, 114);
     color: red;
     padding: 9px;
     width: 200px;
